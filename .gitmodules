@@ -1,3 +1,8 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
-	url = https://github.com/ohmyzsh/ohmyzsh.git
+  url = https://github.com/ohmyzsh/ohmyzsh.git
+
+[submodule "VimCompletesMe"]
+  path = .vim/pack/vendor/start/VimCompletesMe
+  url =  git@github.com:ackyshake/VimCompletesMe.git
+
