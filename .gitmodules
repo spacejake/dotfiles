@@ -6,3 +6,7 @@
   path = .vim/pack/vendor/start/VimCompletesMe
   url =  git@github.com:ackyshake/VimCompletesMe.git
 
+[submodule "vim-bracketed-pasterl"]
+  path = .vim/bundles/vim-bracketed-paste
+  url =  https://github.com/ConradIrwin/vim-bracketed-pasterl
+
