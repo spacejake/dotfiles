@@ -8,5 +8,5 @@
 
 [submodule "vim-bracketed-pasterl"]
   path = .vim/bundles/vim-bracketed-paste
-  url =  https://github.com/ConradIrwin/vim-bracketed-pasterl
+  url = git@github.com:ConradIrwin/vim-bracketed-paste.git
 
